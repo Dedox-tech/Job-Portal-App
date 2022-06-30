@@ -18,7 +18,7 @@ export default function InputSearch() {
         <Box sx={{ mt: 5 }}>
             <Container maxWidth="sm" align="center" sx={{ px: 5 }}>
                 <Typography variant="h4" color="initial">
-                    Hey! What are you looking for today?
+                    Hey! What are you looking for today?...
                 </Typography>
                 <Typography
                     variant="h6"
